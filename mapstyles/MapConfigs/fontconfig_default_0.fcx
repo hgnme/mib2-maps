@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlfontconfig>
+  <fontconfig name="fontconfig_default_0">
+    <!-- road font, ID = 101 -->
+    <!-- city font, ID = 101 -->
+    <!-- smaller 3D font, ID = 103 -->
+    <!-- larger 3D font, ID = 104 -->
+    <!-- small road icon font, ID = 32 -->
+    <!-- Define font id 101 for roadnumbers because it's hardcoded in SDK 7-->
+    <fontdefinition type="freetype" face="VW Thesis Light" id="1" size="15">
+      <path val="Font/VWThesisSansLight.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Light" id="100" size="20">
+      <path val="Font/VWTextCarUI-Light.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="2" size="11">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="200" size="15">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="3" size="13">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="300" size="17">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="4" size="22">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="400" size="29">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="5" size="24">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="500" size="32">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="6" size="19">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="600" size="25">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Semibold" id="12" size="23">
+      <path val="Font/VWThesisSemibold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Semibold" id="1200" size="31">
+      <path val="Font/VWTextCarUI-Bold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="13" size="29">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="1300" size="39">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Semibold" id="7" size="15">
+      <path val="Font/VWThesisSemibold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Semibold" id="700" size="20">
+      <path val="Font/VWTextCarUI-Bold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Semibold" id="8" size="13">
+      <path val="Font/VWThesisSemibold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Semibold" id="800" size="17">
+      <path val="Font/VWTextCarUI-Bold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="9" size="11">
+      <path val="Font/VWThesisSemibold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="900" size="15">
+      <path val="Font/VWTextCarUI-Bold.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="10" size="9">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="1000" size="12">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="101" size="13">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="10100" size="17">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="32" size="14">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="3200" size="19">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="33" size="18">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="3300" size="24">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="14" size="17">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="1400" size="23">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="15" size="29">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="1500" size="39">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="16" size="20">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="1600" size="27">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VW Thesis Light" id="11" size="22">
+      <path val="Font/VWThesisSansLight.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="VWTextCarUI Light" id="1100" size="31">
+      <path val="Font/VWTextCarUI-Light.ttf" />
+    </fontdefinition>
+    <!-- Dummy font definition for font in poi_vw.pc file. -->
+    <fontdefinition type="freetype" face="VW Thesis Light" id="17" size="16">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <!-- GuidanceView road font, ID = 50 -->
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="50" size="18">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <!-- GuidanceView Distance font, ID = 51 -->
+    <fontdefinition type="freetype" face="VW Thesis Regular" id="51" size="18">
+      <path val="Font/VWThesisSansRegular.ttf" />
+    </fontdefinition>
+    <!-- GuidanceView road font G13, ID = 5000 -->
+    <fontdefinition type="freetype" face="VWTextCarUI Regular" id="5000" size="22">
+      <path val="Font/VWTextCarUI-Regular.ttf" />
+    </fontdefinition>
+  </fontconfig>
+</xmlfontconfig>

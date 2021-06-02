@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AditionalInfos version="1">
+  <!--Only NVC Housenumber speller available for these countries-->
+  <InfoKey id="0">
+    <!-- CZECH_REPUBLIC -->
+    <Value lang="1" info="CZ" />
+    <!-- SLOVAKIA -->
+    <Value lang="2" info="SK" />
+    <!-- RUSSIA -->
+    <Value lang="16" info="RUS" />
+    <!-- UKRAINE -->
+    <Value lang="17" info="UA" />
+  </InfoKey>
+</AditionalInfos>

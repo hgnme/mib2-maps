@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mdc>
+  <autozoom mode="3d">
+    <!-- urban roads -->
+    <config scale="2000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config scale="300">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config scale="200">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config scale="100">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <!-- !urban roads -->
+    <config scale="2000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config scale="1000">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config scale="500">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config scale="200">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <!-- everything that doesn' match: -->
+    <config scale="100" />
+  </autozoom>
+  <autozoom mode="2d">
+    <!-- urban roads -->
+    <config scale="2000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config scale="300">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config scale="200">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config scale="100">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <!-- !urban roads -->
+    <config scale="2000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config scale="1000">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config scale="500">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config scale="200">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <!-- everything that doesn' match: -->
+    <config scale="100" />
+  </autozoom>
+  <manoeuvrezoom mode="3d">
+    <tunables>
+      <pxscale v="250" />
+      <mperpx v="86" />
+    </tunables>
+    <!-- !urban roads -->
+    <config distance="8000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config distance="5000">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config distance="2000">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config distance="750">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+        <val>7</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <!-- urban roads -->
+    <config distance="8000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config distance="750">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config distance="500">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config distance="300">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+        <val>7</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <!-- everything that doesn' match: -->
+    <!-- <config distance="200"/> -->
+  </manoeuvrezoom>
+  <manoeuvrezoom mode="2d">
+    <tunables>
+      <pxscale v="250" />
+      <mperpx v="86" />
+    </tunables>
+    <!-- !urban roads -->
+    <config distance="8000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config distance="5000">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config distance="2000">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <config distance="750">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+        <val>7</val>
+      </dc>
+      <urban>false</urban>
+    </config>
+    <!-- urban roads -->
+    <config distance="8000">
+      <dc>
+        <val>0</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config distance="750">
+      <dc>
+        <val>1</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config distance="500">
+      <dc>
+        <val>2</val>
+        <val>3</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <config distance="300">
+      <dc>
+        <val>4</val>
+        <val>5</val>
+        <val>6</val>
+        <val>7</val>
+      </dc>
+      <urban>true</urban>
+    </config>
+    <!-- everything that doesn' match: -->
+    <!-- <config distance="200"/> -->
+  </manoeuvrezoom>
+</mdc>

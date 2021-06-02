@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCodeToFileMappings>
+  <Mapping langCode="default" file="en-GB.xml" />
+  <Mapping langCode="ar_AE" file="ar-AE.xml" />
+  <Mapping langCode="ar_SA" file="ar-SA.xml" />
+  <Mapping langCode="bg_BG" file="bg-BG.xml" />
+  <Mapping langCode="bs_BA" file="bs-BA.xml" />
+  <Mapping langCode="cs_CZ" file="cs-CZ.xml" />
+  <Mapping langCode="da_DK" file="da-DK.xml" />
+  <Mapping langCode="de_DE" file="de-DE.xml" />
+  <Mapping langCode="el_GR" file="el-GR.xml" />
+  <Mapping langCode="en_GB" file="en-GB.xml" />
+  <Mapping langCode="en_US" file="en-US.xml" />
+  <Mapping langCode="es_ES" file="es-ES.xml" />
+  <Mapping langCode="es_MX" file="es-MX.xml" />
+  <Mapping langCode="et_EE" file="et-EE.xml" />
+  <Mapping langCode="fi_FI" file="fi-FI.xml" />
+  <Mapping langCode="fr_FR" file="fr-FR.xml" />
+  <Mapping langCode="hr_HR" file="hr-HR.xml" />
+  <Mapping langCode="hu_HU" file="hu-HU.xml" />
+  <Mapping langCode="it_IT" file="it-IT.xml" />
+  <Mapping langCode="lt_LT" file="lt-LT.xml" />
+  <Mapping langCode="lv_LV" file="lv-LV.xml" />
+  <Mapping langCode="no_NO" file="no-NO.xml" />
+  <Mapping langCode="nl_NL" file="nl-NL.xml" />
+  <Mapping langCode="pl_PL" file="pl-PL.xml" />
+  <Mapping langCode="pt_BR" file="pt-BR.xml" />
+  <Mapping langCode="pt_PT" file="pt-PT.xml" />
+  <Mapping langCode="ro_RO" file="ro-RO.xml" />
+  <Mapping langCode="ru_RU" file="ru-RU.xml" />
+  <Mapping langCode="sk_SK" file="sk-SK.xml" />
+  <Mapping langCode="sl_SI" file="sl-SI.xml" />
+  <Mapping langCode="sr_RS" file="sr-RS.xml" />
+  <Mapping langCode="sv_SE" file="sv-SE.xml" />
+  <Mapping langCode="tr_TR" file="tr-TR.xml" />
+  <Mapping langCode="uk_UA" file="uk-UA.xml" />
+</LanguageCodeToFileMappings>
