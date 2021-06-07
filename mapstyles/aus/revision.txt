@@ -1,2 +1,0 @@
-URL                 https://svnext.elektrobit.com/svn/StyleDB_MIB_VW/trunk/resources/MIB2-H/markets/aus/source
-Revision            2562
