@@ -2,7 +2,7 @@ $projectRoot = "$(&git rev-parse --show-toplevel)";
 $screenshotDir = "$projectRoot/screenshots"
 New-Item -ItemType Directory -Path $screenshotDir -ErrorAction SilentlyContinue | Out-Null
 
-$fileName = '{0:yyyyMMdd-HHMMss}' -f (Get-Date)
+$fileName = '{0:yyyyMMdd-HHmmss}' -f (Get-Date)
 $screenshotName = "$screenshotDir/$($fileName)_kombi.png"
 
 # Taking screenshot of the Kombi display means we have to actually screenshot the main display.
