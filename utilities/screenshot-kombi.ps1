@@ -11,6 +11,6 @@ $screenshotName = "$screenshotDir/$($fileName)_kombi.png"
 # Finally resetting the state of display 0 to return to normal use
 write-host "Taking screenshot"
 ssh mib2 "export LD_LIBRARY_PATH=/eso/lib; export IPL_CONFIG_DIR=/etc/eso/production; /eso/bin/apps/dmdt sc 0 -3;/eso/bin/apps/dmdt ts 0 /tmp/sc.png;/eso/bin/apps/dmdt sb 0;"
-
-write-host "Copying"
+start-sleep 2
+write-host "Copying to $screenshotName"
 scp mib2:/tmp/sc.png $screenshotName

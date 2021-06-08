@@ -7,6 +7,6 @@ $screenshotName = "$screenshotDir/$fileName.png"
 
 write-host "Taking screenshot"
 ssh mib2 "export LD_LIBRARY_PATH=/eso/lib; export IPL_CONFIG_DIR=/etc/eso/production; /eso/bin/apps/dmdt ts 0 /tmp/sc.png;"
-
-write-host "Copying"
+start-sleep 2;
+write-host "Copying to $screenshotName"
 scp mib2:/tmp/sc.png $screenshotName

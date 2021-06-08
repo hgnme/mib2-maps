@@ -13,7 +13,7 @@ $stagingDir = "$projectRoot/deploy";
 $mapStyleSrc = "$projectRoot/mapstyles";
 
 #backup
-$backupName = '{0:yyyyMMdd-HHMMss}' -f (Get-Date);
+$backupName = '{0:yyyyMMdd-HHmmss}' -f (Get-Date);
 $backupRoot = "$projectRoot/backup";
 $backupDir = "$backupRoot/$($backupName)";
 
