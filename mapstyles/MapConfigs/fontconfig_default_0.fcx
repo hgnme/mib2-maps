@@ -49,6 +49,9 @@
     <fontdefinition type="freetype" face="SF Pro Display Semibold" id="1200" size="31">
       <path val="Font/SFProDisplay-Semibold.ttf" />
     </fontdefinition>
+    <fontdefinition type="freetype" face="SF Pro Display Bold" id="1250" size="48">
+      <path val="Font/SFProDisplay-Bold.ttf" />
+    </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Medium" id="13" size="29">
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
@@ -97,8 +100,8 @@
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="3300" size="24">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="14" size="17">
-      <path val="Font/SFProDisplay-Medium.ttf" />
+    <fontdefinition type="freetype" face="SF Pro Display Bold" id="14" size="15">
+      <path val="Font/SFProDisplay-Bold.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="1400" size="23">
       <path val="Font/SFProDisplay-Regular.ttf" />
