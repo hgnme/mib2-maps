@@ -9,7 +9,9 @@ A collection of utilities to enable simpler customisation of the MIB2 MapStyle f
 * photoshop's colour picker
 
 ## Getting Started
-To build the maps for yourself, simply clone the repo and run the [deploy_scp.ps1](utilities/deploy_scp.ps1) powershell script. This will build a "Deploy folder" which can be copied to the MIB2 headunit.
+The quickest way to get started is to download the latest [release](https://github.com/hgnme/mib2-maps/releases/latest) and copy it to your MIB2 headunit.
+
+If you would like to build the maps for yourself, simply clone the repo and run the [deploy_scp.ps1](utilities/deploy_scp.ps1) powershell script. This will build a "Deploy folder" which can be copied to the MIB2 headunit.
 
 ### Prerequisites
 * npm
