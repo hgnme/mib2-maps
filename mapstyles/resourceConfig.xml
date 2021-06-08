@@ -1881,14 +1881,14 @@
   <resource id="20680" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C1_Y-2_X0_WE_Shadow3D.png,0,0,62,48,-21,-21" />
   <resource id="20681" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C1_Y-3_X0_WT-HMI.png,0,0,32,39,-16,-19" />
   <resource id="20682" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C1_Y-2_X0_WE-HMI.png,0,0,42,52,-21,-26" />
-  <resource id="20683" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WT.png,0,0,36,33,-18,-16" />
-  <resource id="20684" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WE.png,0,0,48,44,-24,-22" />
+  <resource id="20683" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WT.png,0,0,46,39,0,0" />
+  <resource id="20684" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WE.png,0,0,46,39,0,0" />
   <resource id="20685" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WT_Shadow2D.png,0,0,40,37,-18,-16" />
   <resource id="20686" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WE_Shadow2D.png,0,0,52,48,-24,-22" />
   <resource id="20687" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WT_Shadow3D.png,0,0,48,37,-18,-16" />
   <resource id="20688" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WE_Shadow3D.png,0,0,68,50,-24,-22" />
-  <resource id="20689" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WT-HMI.png,0,0,36,39,-18,-19" />
-  <resource id="20690" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WE-HMI.png,0,0,48,52,-24,-26" />
+  <resource id="20689" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WT-HMI.png,0,0,46,39,0,0" />
+  <resource id="20690" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C2_Y-3_X0_WE-HMI.png,0,0,46,39,0,0" />
   <resource id="20691" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C3_Y-3_X0_WT.png,0,0,44,33,-22,-16" />
   <resource id="20692" name="images.cff:roadicon\1\streetlabels\AUS\AUS_R2_C3_Y-4_X0_WE.png,0,0,58,44,-29,-22" />
   <resource id="20693" name="images.cff:roadicon\streetlabels\AUS\AUS_R2_C3_Y-3_X0_WT_Shadow2D.png,0,0,48,37,-22,-16" />
