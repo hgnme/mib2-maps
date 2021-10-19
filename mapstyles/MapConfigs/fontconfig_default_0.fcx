@@ -43,11 +43,11 @@
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="600" size="25">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="12" size="23">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="12" size="24">
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="1200" size="31">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="1200" size="32">
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Bold" id="1250" size="48">
       <path val="Font/SFProDisplay-Bold.ttf" />
@@ -82,7 +82,7 @@
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="1000" size="12">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="101" size="13">
+    <fontdefinition type="freetype" face="SF Pro Display Regular" id="101" size="32">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="10100" size="17">
@@ -100,17 +100,17 @@
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="3300" size="24">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Bold" id="14" size="15">
-      <path val="Font/SFProDisplay-Bold.ttf" />
+    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="14" size="16">
+      <path val="Font/SFProDisplay-Semibold-UpperLower.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="1400" size="23">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="1450" size="18">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="1450" size="18">
+      <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="1455" size="17">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="1455" size="17">
+      <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Medium" id="15" size="29">
       <path val="Font/SFProDisplay-Medium.ttf" />
@@ -155,11 +155,11 @@
     <fontdefinition type="freetype" face="SF Pro Display Medium" id="6250" size="17">
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="6300" size="20">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="6300" size="20">
+      <path val="Font/SFProDisplay-Semibold-UpperLower.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="6350" size="17">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="6350" size="17">
+      <path val="Font/SFProDisplay-Semibold-UpperLower.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="6400" size="20">
       <path val="Font/SFProDisplay-Regular.ttf" />
