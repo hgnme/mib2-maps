@@ -13,65 +13,71 @@
     <fontdefinition type="freetype" face="SF Pro Display Light" id="100" size="20">
       <path val="Font/SFProDisplay-Light.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="2" size="11">
+    <fontdefinition type="freetype" face="SF Pro Display Medium" id="2" size="11"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="200" size="15">
+    <fontdefinition type="freetype" face="SF Pro Display Regular" id="200" size="15"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="3" size="13">
+    <fontdefinition type="freetype" face="SF Pro Display Medium" id="3" size="13"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="300" size="17">
+    <fontdefinition type="freetype" face="SF Pro Display Regular" id="300" size="17"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="4" size="22">
-      <path val="Font/SFProDisplay-Medium.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="400" size="29">
-      <path val="Font/SFProDisplay-Regular.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="5" size="24">
-      <path val="Font/SFProDisplay-Medium.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="500" size="32">
-      <path val="Font/SFProDisplay-Regular.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="6" size="19">
-      <path val="Font/SFProDisplay-Medium.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="600" size="25">
-      <path val="Font/SFProDisplay-Regular.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="12" size="24">
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="4" size="24"> <!-- Suburb on Kombi -->
       <path val="Font/SFUITextCondensed-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="1200" size="32">
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="400" size="32"> <!-- Suburb on MIB -->
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
+    </fontdefinition>    
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="15" size="29"> <!-- City on Kombi -->
       <path val="Font/SFUITextCondensed-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Bold" id="1250" size="48">
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="1500" size="39"> <!-- City on MIB -->
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="5" size="24"> <!-- tested unknown -->
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="500" size="32"> <!-- tested unknown -->
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="SF Pro Display Medium" id="6" size="19"> <!-- tested unknown -->
+      <path val="Font/SFProDisplay-Medium.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="SF Pro Display Regular" id="600" size="25"> <!-- tested unknown -->
+      <path val="Font/SFProDisplay-Regular.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="12" size="24"><!-- tested unknown -->
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face=".SF UI Text Condensed Medium" id="1200" size="32"><!-- tested unknown -->
+      <path val="Font/SFUITextCondensed-Medium.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="SF Pro Display Bold" id="1250" size="48"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Bold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="13" size="29">
+    <fontdefinition type="freetype" face="SF Pro Display Medium" id="13" size="29"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="1300" size="39">
+    <fontdefinition type="freetype" face="SF Pro Display Regular" id="1300" size="39"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="7" size="15">
+    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="7" size="15"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Semibold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="700" size="20">
+    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="700" size="20"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Semibold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="8" size="13">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="8" size="15"><!-- MIB Road marker for not national route, not Alt route-->
+      <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Semibold" id="800" size="17">
       <path val="Font/SFProDisplay-Semibold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold" id="9" size="11">
-      <path val="Font/SFProDisplay-Semibold.ttf" />
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="9" size="12"><!-- Kombi Road marker for not national route, not Alt route-->
+      <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Semibold" id="900" size="15">
       <path val="Font/SFProDisplay-Semibold.ttf" />
@@ -88,11 +94,11 @@
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="10100" size="17">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="32" size="14">
-      <path val="Font/SFProDisplay-Medium.ttf" />
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="32" size="14">
+      <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="3200" size="19">
-      <path val="Font/SFProDisplay-Regular.ttf" />
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="3200" size="19">
+      <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Medium" id="33" size="18">
       <path val="Font/SFProDisplay-Medium.ttf" />
@@ -100,28 +106,19 @@
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="3300" size="24">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="14" size="16">
-      <path val="Font/SFProDisplay-Semibold-UpperLower.ttf" />
-    </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Regular" id="1400" size="23">
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="1450" size="18">
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="1450" size="18"> <!-- not actually road icon -->
       <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="1455" size="17">
+    <fontdefinition type="freetype" face="SF Shields Semicondensed" id="1455" size="17"> <!-- not actually road icon -->
       <path val="Font/SFShieldsSemicondensed-Bold.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="15" size="29">
+    <fontdefinition type="freetype" face="SF Pro Display Medium" id="16" size="20"> <!-- Unknown -->
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="1500" size="39">
-      <path val="Font/SFProDisplay-Regular.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="16" size="20">
-      <path val="Font/SFProDisplay-Medium.ttf" />
-    </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="1600" size="27">
+    <fontdefinition type="freetype" face="SF Pro Display Regular" id="1600" size="27"> <!-- Unknown -->
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Light" id="11" size="22">
@@ -149,19 +146,22 @@
     <fontdefinition type="freetype" face="SF Pro Display Medium" id="6100" size="31">
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="6200" size="23">
+    <fontdefinition type="freetype" face="SF Pro Display Medium" id="6200" size="23"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Medium" id="6250" size="17">
+    <fontdefinition type="freetype" face="SF Pro Display Medium" id="6250" size="17"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="6300" size="20">
+    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="14" size="16"> <!-- Road names Kombi -->
       <path val="Font/SFProDisplay-Semibold-UpperLower.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="6350" size="17">
+    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="6300" size="20"> <!-- Road names MIB -->
       <path val="Font/SFProDisplay-Semibold-UpperLower.ttf" />
     </fontdefinition>
-    <fontdefinition type="freetype" face="SF Pro Display Regular" id="6400" size="20">
+    <fontdefinition type="freetype" face="SF Pro Display Semibold UpperLower" id="6350" size="17"> <!-- Road names MIB -->
+      <path val="Font/SFProDisplay-Semibold-UpperLower.ttf" />
+    </fontdefinition>
+    <fontdefinition type="freetype" face="SF Pro Display Regular" id="6400" size="20"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Regular.ttf" />
     </fontdefinition>
   </fontconfig>
