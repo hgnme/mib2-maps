@@ -56,7 +56,7 @@ Copy-Item -Path ($mapStyleSrc + "/roadicon") -Destination $stagingDir -Recurse -
 Copy-Item -Path ($mapStyleSrc + "/signpost") -Destination $stagingDir -Recurse | Out-Null;
 Copy-Item -Path ($mapStyleSrc + "/textures") -Destination $stagingDir -Recurse | Out-Null;
 Copy-Item -Path ($mapStyleSrc + "/tti") -Destination $stagingDir -Recurse | Out-Null;
-Copy-Item -Path ($mapStyleSrc + "/*.*") -Destination $stagingDir -Exclude ("*original*", "*.ps1", "*.md", "*.py", "*.sh")| Out-Null;
+Copy-Item -Path ($mapStyleSrc + "/*.*") -Destination $stagingDir -Exclude ("*original*", "*.ps1", "*.md", "*.py", "*.sh", "*.bak")| Out-Null;
 
 Write-host "--> Storing commit point in commit.txt";
 $hash = &git rev-parse HEAD;
