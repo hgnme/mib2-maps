@@ -13,6 +13,9 @@
     <fontdefinition type="freetype" face="SF Pro Display Light" id="100" size="20">
       <path val="Font/SFProDisplay-Light.ttf" />
     </fontdefinition>
+    <fontdefinition type="freetype" face="SF Pro Display Semibold Italic" id="1008" size="22">
+      <path val="Font/SFProDisplay-SemiboldItalic.ttf" />
+    </fontdefinition>
     <fontdefinition type="freetype" face="SF Pro Display Medium" id="2" size="11"><!-- tested unknown -->
       <path val="Font/SFProDisplay-Medium.ttf" />
     </fontdefinition>
