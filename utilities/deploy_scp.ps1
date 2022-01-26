@@ -37,6 +37,7 @@ Write-Host "--> Building MapConfigs";
 Write-Host "--> MapConfigs generated";
 Write-Host "--> Emptying Staging Dir";
 Remove-Item -Path "$stagingDir/*" -Recurse | out-null;
+Remove-Item -Path ($mapStyleSrc + "/poi/poi_vw.pc.gz") -ErrorAction SilentlyContinue | out-null;
 New-Item -ItemType Directory "$stagingDir/MapConfigs" | out-null;
 
 Write-Host "--> Populating Staging Dir"
@@ -50,6 +51,7 @@ Copy-Item -Path ($mapStyleSrc + "/MapConfigs/*.fcx") -Destination "$stagingDir/M
 Copy-Item -Path ($mapStyleSrc + "/MapConfigs/*.csv.gz") -Destination "$stagingDir/MapConfigs/" | Out-Null;
 Copy-Item -Path ($mapStyleSrc + "/Models") -Destination $stagingDir -Recurse | Out-Null;
 Copy-Item -Path ($mapStyleSrc + "/pcconfig") -Destination $stagingDir -Recurse | Out-Null;
+&7z a ($mapStyleSrc + "/poi/poi_vw.pc.gz") -tgzip ($mapStyleSrc + "/poi/poi_vw.pc") | Out-Null;
 Copy-Item -Path ($mapStyleSrc + "/poi") -Destination $stagingDir -Recurse | Out-Null;
 Copy-Item -Path ($mapStyleSrc + "/res") -Destination $stagingDir -Recurse | Out-Null;
 Copy-Item -Path ($mapStyleSrc + "/roadicon") -Destination $stagingDir -Recurse -Exclude ("*.ps1", "*Copy*", "*.gz")| Out-Null;
@@ -87,4 +89,6 @@ if($deploy -eq $true) {
   ssh mib2 slay AppStartATF;
   Write-Host "MIB Deploy complete";
 }
+
+Remove-Item -Path ($mapStyleSrc + "/poi/poi_vw.pc.gz") | out-null;
 Write-Host "Finished";

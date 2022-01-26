@@ -27,10 +27,10 @@
       <bitmap size="40" res_id="1318">images.cff:poi\1\vw\Car_Parks-HMI.png,0,0,44,44,0,0</bitmap>
     </category>
     <category id="1000" name="25" type="0" bitmapIndex="1339">
-      <bitmap size="10" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="20" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="30" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap size="40" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,50,50,0,0</bitmap>
     </category>
     <category id="1002" name="16" type="0" bitmapIndex="1380">
       <bitmap size="10" res_id="1380">images.cff:poi\vw\Rest_Area-HMI.png,0,0,39,39,0,0</bitmap>
@@ -51,16 +51,16 @@
       <bitmap size="40" res_id="1482">images.cff:poi\1\vw\Car_Rental-HMI.png,0,0,52,52,0,0</bitmap>
     </category>
     <category id="1010" name="35" type="0" bitmapIndex="1503">
-      <bitmap size="10" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="20" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="30" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap size="40" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,50,50,0,0</bitmap>
     </category>
     <category id="1012" name="26" type="0" bitmapIndex="1544">
-      <bitmap size="10" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="20" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="30" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap size="40" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,50,50,0,0</bitmap>
     </category>
     <category id="1013" name="24" type="0" bitmapIndex="1585">
       <bitmap size="10" res_id="1585">images.cff:poi\vw\Consumer_Electronics_Store-HMI.png,0,0,39,39,0,0</bitmap>
@@ -105,10 +105,10 @@
       <bitmap size="40" res_id="1851">images.cff:poi\1\vw\Companies-HMI.png,0,0,52,52,0,0</bitmap>
     </category>
     <category id="1021" name="49" type="0" bitmapIndex="1872">
-      <bitmap size="10" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap size="20" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap size="30" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,60,60,0,0</bitmap>
+      <bitmap size="40" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,60,60,0,0</bitmap>
     </category>
     <category id="1023" name="2" type="0" bitmapIndex="1913">
       <bitmap size="10" res_id="1913">images.cff:poi\vw\Motorway_Exit_Access-HMI.png,0,0,39,39,0,0</bitmap>
@@ -159,10 +159,10 @@
       <bitmap size="40" res_id="2179">images.cff:poi\1\vw\Golf-HMI.png,0,0,52,52,0,0</bitmap>
     </category>
     <category id="1035" name="54" type="0" bitmapIndex="2200">
-      <bitmap size="10" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="20" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="30" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap size="40" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,50,50,0,0</bitmap>
     </category>
     <category id="1036" name="10" type="0" bitmapIndex="2241">
       <bitmap size="10" res_id="2241">images.cff:poi\vw\Border_Crossing-HMI.png,0,0,39,39,0,0</bitmap>
@@ -189,16 +189,16 @@
       <bitmap size="40" res_id="2384">images.cff:poi\1\vw\Skiing-HMI.png,0,0,52,52,0,0</bitmap>
     </category>
     <category id="2007" name="6" type="0" bitmapIndex="2405">
-      <bitmap size="10" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap size="20" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap size="30" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,60,60,0,0</bitmap>
+      <bitmap size="40" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,60,60,0,0</bitmap>
     </category>
     <category id="2014" name="45" type="0" bitmapIndex="2446">
-      <bitmap size="10" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="20" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="30" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap size="40" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,50,50,0,0</bitmap>
     </category>
     <category id="2015" name="38" type="0" bitmapIndex="2487">
       <bitmap size="10" res_id="2487">images.cff:poi\vw\Convention_Center-HMI.png,0,0,39,39,0,0</bitmap>
@@ -213,10 +213,10 @@
       <bitmap size="40">poi/1/vw/Community_Center-HMI.png,0,0,52,52,0,0</bitmap>
     </category>-->
     <category id="2026" name="9" type="0" bitmapIndex="2528">
-      <bitmap size="10" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap size="20" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap size="30" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,44,44,0,0</bitmap>
+      <bitmap size="40" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,44,44,0,0</bitmap>
     </category>
     <category id="2043" name="29" type="0" bitmapIndex="2569">
       <bitmap size="10" res_id="2569">images.cff:poi\vw\Wine_and_Spirits-HMI.png,0,0,39,39,0,0</bitmap>
@@ -291,10 +291,10 @@
       <bitmap size="40" res_id="3040">images.cff:poi\1\vw\Medical_Servie-HMI.png,0,0,52,52,0,0</bitmap>
     </category>
     <category id="60211" name="22" type="0" bitmapIndex="3061">
-      <bitmap size="10" res_id="3061">images.cff:poi\vw\Coffee_Shop-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="3061">images.cff:poi\vw\Coffee_Shop-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="3061">images.cff:poi\vw\Coffee_Shop-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="20" res_id="3061">images.cff:poi\vw\Coffee_Shop-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="30" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap size="40" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,50,50,0,0</bitmap>
     </category>
     <category id="60218" name="85" type="2" bitmapIndex="3102">
       <bitmap size="10" res_id="3102">images.cff:poi\vw\POI_Brands\Best_Western-HMI.png,0,0,39,39,0,0</bitmap>
@@ -375,10 +375,10 @@
       <bitmap size="40" res_id="3532">images.cff:poi\1\vw\POI_Brands\Volksbank-HMI.png,0,0,52,52,0,0</bitmap>
     </category>
     <category id="60333" name="120" type="0" bitmapIndex="3594">
-      <bitmap size="10" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="20" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap size="30" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap size="40" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap size="10" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="20" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap size="30" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap size="40" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,50,50,0,0</bitmap>
     </category>
   </categories>
   <types>
@@ -5887,12 +5887,12 @@
     </type>
     <!--Bahnhöfe-->
     <type id="5004">
-      <bitmap module="0" size="10" res_id="8081">images.cff:poi\vw\Train_Station-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8082">images.cff:poi\1\vw\Train_Station-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="1954">images.cff:poi\vw\Train_Station-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="1954">images.cff:poi\vw\Train_Station-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="1974">images.cff:poi\1\vw\Train_Station-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="1974">images.cff:poi\1\vw\Train_Station-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="1954">images.cff:poi\vw\Train_Station-HMI.png,0,0,42,42,-21,-42</bitmap>
+      <bitmap module="0" size="30" res_id="1974">images.cff:poi\1\vw\Train_Station-HMI.png,0,0,60,60,-30,-60</bitmap>
+      <bitmap module="1" size="10" res_id="1954">images.cff:poi\vw\Train_Station-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="1954">images.cff:poi\vw\Train_Station-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="1974">images.cff:poi\1\vw\Train_Station-HMI.png,0,0,60,60,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="1974">images.cff:poi\1\vw\Train_Station-HMI.png,0,0,60,60,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -5917,12 +5917,12 @@
     </type>
     <!--Flughäfen-->
     <type id="5006">
-      <bitmap module="0" size="10" res_id="8099">images.cff:poi\vw\Airport-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8100">images.cff:poi\1\vw\Airport-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,42,42,-21,-42</bitmap>
+      <bitmap module="0" size="30" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,44,44,-22,-44</bitmap>
+      <bitmap module="1" size="10" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="2528">images.cff:poi\vw\Airport-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,44,44,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="2548">images.cff:poi\1\vw\Airport-HMI.png,0,0,44,44,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -6005,12 +6005,12 @@
     </type>
     <!--Bootssport-->
     <type id="7010">
-      <bitmap module="0" size="10" res_id="8153">images.cff:poi\vw\Boating-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8154">images.cff:poi\1\vw\Boating-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="8153">images.cff:poi\vw\Boating-HMI.png.png,0,0,42,42,-21,-42</bitmap>
+      <bitmap module="0" size="30" res_id="8154">images.cff:poi\1\vw\Boating-HMI.png.png,0,0,60,60,-30,-60</bitmap>
+      <bitmap module="1" size="10" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="1872">images.cff:poi\vw\Boating-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,60,60,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="1892">images.cff:poi\1\vw\Boating-HMI.png,0,0,60,60,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -6305,12 +6305,12 @@
     </type>
     <!--Kinos-->
     <type id="5040">
-      <bitmap module="0" size="10" res_id="8285">images.cff:poi\vw\Cinema-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8286">images.cff:poi\1\vw\Cinema-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,50,50,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="2200">images.cff:poi\vw\Cinema-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="2220">images.cff:poi\1\vw\Cinema-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -6633,12 +6633,12 @@
     </type>
     <!--Vergnügungsparks-->
     <type id="6030">
-      <bitmap module="0" size="10" res_id="8465">images.cff:poi\vw\Amusement_Parks-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8466">images.cff:poi\1\vw\Amusement_Parks-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="2610">images.cff:poi\vw\Amusement_Parks-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="2610">images.cff:poi\vw\Amusement_Parks-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="2630">images.cff:poi\1\vw\Amusement_Parks-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="2630">images.cff:poi\1\vw\Amusement_Parks-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="2610">images.cff:poi\vw\Amusement_Parks-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="2630">images.cff:poi\1\vw\Amusement_Parks-HMI.png,0,0,50,50,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="2610">images.cff:poi\vw\Amusement_Parks-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="2610">images.cff:poi\vw\Amusement_Parks-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="2630">images.cff:poi\1\vw\Amusement_Parks-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="2630">images.cff:poi\1\vw\Amusement_Parks-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -6824,12 +6824,12 @@
     </type>
     <!--Krankenhäuser-->
     <type id="7000">
-      <bitmap module="0" size="10" res_id="8573">images.cff:poi\vw\Hospital-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8574">images.cff:poi\1\vw\Hospital-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="8573">images.cff:poi\vw\Hospital-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="8574">images.cff:poi\1\vw\Hospital-HMI.png,0,0,50,50,-29,-50</bitmap>
+      <bitmap module="1" size="10" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="2446">images.cff:poi\vw\Hospital-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="2466">images.cff:poi\1\vw\Hospital-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -6853,12 +6853,12 @@
     </type>
     <!--Autovermietung-->
     <type id="7005">
-      <bitmap module="0" size="10" res_id="8591">images.cff:poi\vw\Car_Rental-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8592">images.cff:poi\1\vw\Car_Rental-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="1462">images.cff:poi\vw\Car_Rental-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="1462">images.cff:poi\vw\Car_Rental-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="1482">images.cff:poi\1\vw\Car_Rental-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="1482">images.cff:poi\1\vw\Car_Rental-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="1462">images.cff:poi\vw\Car_Rental-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="1482">images.cff:poi\1\vw\Car_Rental-HMI.png,0,0,50,50,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="1462">images.cff:poi\vw\Car_Rental-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="1462">images.cff:poi\vw\Car_Rental-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="1482">images.cff:poi\1\vw\Car_Rental-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="1482">images.cff:poi\1\vw\Car_Rental-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -6884,12 +6884,12 @@
     </type>
     <!--Grenzübergänge-->
     <type id="5050">
-      <bitmap module="0" size="10" res_id="8609">images.cff:poi\vw\Border_Crossing-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8610">images.cff:poi\1\vw\Border_Crossing-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="2241">images.cff:poi\vw\Border_Crossing-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="2241">images.cff:poi\vw\Border_Crossing-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="2261">images.cff:poi\1\vw\Border_Crossing-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="2261">images.cff:poi\1\vw\Border_Crossing-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="2241">images.cff:poi\vw\Border_Crossing-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="2261">images.cff:poi\1\vw\Border_Crossing-HMI.png,0,0,60,60,-30,-60</bitmap>
+      <bitmap module="1" size="10" res_id="2241">images.cff:poi\vw\Border_Crossing-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="2241">images.cff:poi\vw\Border_Crossing-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="2261">images.cff:poi\1\vw\Border_Crossing-HMI.png,0,0,60,60,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="2261">images.cff:poi\1\vw\Border_Crossing-HMI.png,0,0,60,60,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="8611">images.cff:poi\vw\Shadow2D\VW_Service_Shadow2D-06.png,0,0,48,48,-24,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="8612">images.cff:poi\1\vw\Shadow2D\VW_Service_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="8613">images.cff:poi\vw\Shadow3D\VW_Service_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -6901,12 +6901,12 @@
     </type>
     <!--Bushaltestellen-->
     <type id="7030">
-      <bitmap module="0" size="10" res_id="8615">images.cff:poi\vw\Bus_Stop-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8616">images.cff:poi\1\vw\Bus_Stop-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,42,42,-21,-42</bitmap>
+      <bitmap module="0" size="30" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,60,60,-30,-60</bitmap>
+      <bitmap module="1" size="10" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="2405">images.cff:poi\vw\Bus_Stop-HMI.png,0,0,42,42,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,60,60,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="2425">images.cff:poi\1\vw\Bus_Stop-HMI.png,0,0,60,60,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -7020,12 +7020,12 @@
     </type>
     <!--Cafés-->
     <type id="5081">
-      <bitmap module="0" size="10" res_id="8687">images.cff:poi\vw\Coffee_Shop-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8688">images.cff:poi\1\vw\Coffee_Shop-06.png,0,0,58,58,-29,-58</bitmap>
+      <bitmap module="0" size="10" res_id="3061">images.cff:poi\vw\Coffee_Shop-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,50,50,-25,-50</bitmap>
       <bitmap module="1" size="10" res_id="3061">images.cff:poi\vw\Coffee_Shop-HMI.png,0,0,39,39,0,0</bitmap>
       <bitmap module="1" size="20" res_id="3061">images.cff:poi\vw\Coffee_Shop-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="3081">images.cff:poi\1\vw\Coffee_Shop-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -7051,12 +7051,12 @@
     </type>
     <!--Geldautomat-->
     <type id="6001">
-      <bitmap module="0" size="10" res_id="8705">images.cff:poi\vw\ATM-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8706">images.cff:poi\1\vw\ATM-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,58,58,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="1339">images.cff:poi\vw\ATM-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="1359">images.cff:poi\1\vw\ATM-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -7194,12 +7194,12 @@
     </type>
     <!--Camping Ground-->
     <type id="59">
-      <bitmap module="0" size="10" res_id="8783">images.cff:poi\vw\Camping-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8784">images.cff:poi\1\vw\Camping-06.png,0,0,59,59,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,50,50,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="3594">images.cff:poi\vw\Camping-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="3614">images.cff:poi\1\vw\Camping-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -7218,17 +7218,17 @@
       <bitmap type="7" module="0" size="30" res_id="17722">images.cff:poi\1\vw\POI_Stack\Shadow3D\POI_Stack_Shadow3D-06.png,0,0,66,76,-29,-66</bitmap>
       <zoomlevel min="0" max="6" />
       <priority>26</priority>
-      <code agent="PSF">59</code>
+      <code agent="PSF">50</code>
       <description>Camping Ground</description>
     </type>
     <!--Friedhöfe-->
     <type id="7090">
-      <bitmap module="0" size="10" res_id="8801">images.cff:poi\vw\Cemetery-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8802">images.cff:poi\1\vw\Cemetery-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,50,50,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="1503">images.cff:poi\vw\Cemetery-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="1523">images.cff:poi\1\vw\Cemetery-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -7342,12 +7342,12 @@
     </type>
     <!--Bank-->
     <type id="6002">
-      <bitmap module="0" size="10" res_id="8873">images.cff:poi\vw\Bank-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8874">images.cff:poi\1\vw\Bank-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="1708">images.cff:poi\vw\Bank-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="1708">images.cff:poi\vw\Bank-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="1728">images.cff:poi\1\vw\Bank-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="1728">images.cff:poi\1\vw\Bank-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="1708">images.cff:poi\vw\Bank-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="1728">images.cff:poi\1\vw\Bank-HMI.png,0,0,50,50,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="1708">images.cff:poi\vw\Bank-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="1708">images.cff:poi\vw\Bank-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="1728">images.cff:poi\1\vw\Bank-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="1728">images.cff:poi\1\vw\Bank-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
@@ -7444,12 +7444,12 @@
     </type>
     <!--Kleidung-->
     <type id="5030">
-      <bitmap module="0" size="10" res_id="8921">images.cff:poi\vw\Clothing_Store-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8922">images.cff:poi\1\vw\Clothing_Store-06.png,0,0,58,58,-29,-58</bitmap>
-      <bitmap module="1" size="10" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="20" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,39,39,0,0</bitmap>
-      <bitmap module="1" size="30" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,52,52,0,0</bitmap>
-      <bitmap module="1" size="40" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,52,52,0,0</bitmap>
+      <bitmap module="0" size="10" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,38,38,-19,-38</bitmap>
+      <bitmap module="0" size="30" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,50,50,-25,-50</bitmap>
+      <bitmap module="1" size="10" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="20" res_id="1544">images.cff:poi\vw\Clothing_Store-HMI.png,0,0,38,38,0,0</bitmap>
+      <bitmap module="1" size="30" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,50,50,0,0</bitmap>
+      <bitmap module="1" size="40" res_id="1564">images.cff:poi\1\vw\Clothing_Store-HMI.png,0,0,50,50,0,0</bitmap>
       <bitmap type="4" module="0" size="10" res_id="17707">images.cff:poi\vw\Shadow2D\POI_Shadow2D-06.png,0,0,48,48,-22,-44</bitmap>
       <bitmap type="4" module="0" size="30" res_id="17708">images.cff:poi\1\vw\Shadow2D\POI_Shadow2D-06.png,0,0,64,64,-29,-58</bitmap>
       <bitmap type="5" module="0" size="10" res_id="17709">images.cff:poi\vw\Shadow3D\POI_Shadow3D-06.png,0,0,44,48,-22,-44</bitmap>
