@@ -6720,8 +6720,8 @@
     </type>
     <!--Parkplätze-->
     <type id="5003">
-      <bitmap module="0" size="10" res_id="8519">images.cff:poi\vw\Car_Parks-06.png,0,0,44,44,-22,-44</bitmap>
-      <bitmap module="0" size="30" res_id="8520">images.cff:poi\1\vw\Car_Parks-06.png,0,0,58,58,-29,-58</bitmap>
+      <bitmap module="0" size="10" res_id="1298">images.cff:poi\vw\Car_Parks-HMI.png,0,0,32,32,-22,-22</bitmap>
+      <bitmap module="0" size="30" res_id="1318">images.cff:poi\1\vw\Car_Parks-HMI.png,0,0,44,44,-22,-22</bitmap>
       <bitmap module="1" size="10" res_id="1298">images.cff:poi\vw\Car_Parks-HMI.png,0,0,32,32,0,0</bitmap>
       <bitmap module="1" size="20" res_id="1298">images.cff:poi\vw\Car_Parks-HMI.png,0,0,32,32,0,0</bitmap>
       <bitmap module="1" size="30" res_id="1318">images.cff:poi\1\vw\Car_Parks-HMI.png,0,0,44,44,0,0</bitmap>
