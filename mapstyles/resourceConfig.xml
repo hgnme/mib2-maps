@@ -14,8 +14,8 @@
   <resource id="1236" name="images.cff:poi\1\vw\Restaurants-HMI.png,0,0,52,52,0,0" />
   <resource id="1257" name="images.cff:poi\vw\Hotels_and_Motels-HMI.png,0,0,39,39,0,0" />
   <resource id="1277" name="images.cff:poi\1\vw\Hotels_and_Motels-HMI.png,0,0,52,52,0,0" />
-  <resource id="1298" name="images.cff:poi\vw\Car_Parks-HMI.png,0,0,39,39,0,0" />
-  <resource id="1318" name="images.cff:poi\1\vw\Car_Parks-HMI.png,0,0,52,52,0,0" />
+  <resource id="1298" name="images.cff:poi\vw\Car_Parks-HMI.png,0,0,32,32,0,0" />
+  <resource id="1318" name="images.cff:poi\1\vw\Car_Parks-HMI.png,0,0,44,44,0,0" />
   <resource id="1339" name="images.cff:poi\vw\ATM-HMI.png,0,0,39,39,0,0" />
   <resource id="1359" name="images.cff:poi\1\vw\ATM-HMI.png,0,0,52,52,0,0" />
   <resource id="1380" name="images.cff:poi\vw\Rest_Area-HMI.png,0,0,39,39,0,0" />
